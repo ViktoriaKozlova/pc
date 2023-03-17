@@ -23,11 +23,15 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+<<<<<<< HEAD
   border: 1px solid rgb(53, 180, 70);
+=======
+  border: 1px solid rgb(0, 0, 0);
+>>>>>>> fix1
   border-radius: 5px;
 }
 .tab-btn.active {
-  background-color: rgb(37, 255, 17);
+  background-color: rgb(227, 17, 255);
   color: #ffffff;
 }
 
